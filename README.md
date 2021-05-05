@@ -1,7 +1,7 @@
 # KK_VRHeadSizeAdjust v1.0.0
 
 ## Introduction
-Adds new slider to body menu for setting head size only in VR.
+Adds new slider to Chara Maker body menu for setting head size only in VR.
 
 Sometimes characters in Koikatsu may look a bit like sports mascots once you view them in VR, even if they look okay in 2D. This plugin allows for a quick fix using a simple slider.
 
