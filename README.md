@@ -3,6 +3,8 @@
 ## Introduction
 Adds new slider to body menu for setting head size only in VR.
 
+Sometimes characters in Koikatsu may look a bit like sports mascots once you view them in VR, even if they look okay in 2D. This plugin allows for a quick fix using a simple slider.
+
 ### Compatible with:
 * Koikatu
 * KoikatuVR
